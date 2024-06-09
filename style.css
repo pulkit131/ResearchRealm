@@ -444,7 +444,7 @@ header .navbar ul li a:hover{
 
 @media (max-width:2560px) {
     .gallery .box-container .box{ 
-        margin: 15rem;
+        margin: 10rem;
         height: 65rem;
     }
 
