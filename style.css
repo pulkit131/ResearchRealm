@@ -443,9 +443,14 @@ header .navbar ul li a:hover{
 
 
 @media (max-width:2560px) {
+
+    html{
+        font-size: 55%;
+    }
+    
     .gallery .box-container .box{ 
         margin: 6rem;
-        height: 65rem;
+        height: 60rem;
     }
 
     .movies .box-container .box{
